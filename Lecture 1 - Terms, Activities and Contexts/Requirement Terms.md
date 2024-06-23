@@ -1,0 +1,11 @@
+- **Requirement artifact** -  documented form of one or more requirements
+- A **stakeholder** (in RE) is an individual/institution with interest in the project and/or the system to be created
+	- e.g. user, administrator, security officer
+	- and thus a potential source of requirements
+- A **requirement source** designates the origin of a requirement, i.e. the real-world aspect, which causes the requirement (justification)
+	- Stakeholders
+	- (old) legacy systems in operation
+	- Laws, regulations and standards, guidelines, ... 
+	- Literature - More details are explained later in the course
+- A **requirement justification** (rationale) explains and justifies, why a certain requirement is demanded
+- [[Artifact]]

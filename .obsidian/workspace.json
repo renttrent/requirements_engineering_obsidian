@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "7cb8dfea89d231bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9cd872a08404a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8773bb7fe5a984e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8e5109ee4e19b18",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4bf415ab529b0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a119a65b6e26b92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "040a13c392b2bc4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7b6a5d18af58d0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4429f64da85762c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec04c4d6945383a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f98e6d57a1944ccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture 3 - Process Models/Engineering Model.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a058aa5bad7bd158",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lecture 3 - Process Models/Engineering Model.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "295f29e18a942405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06579c378df867a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lecture 3 - Process Models/Engineering Model.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "5a119a65b6e26b92",
+  "lastOpenFiles": [
+    "Lecture 3 - Process Models/Explicit Requirements Industry Standards.md",
+    "Lecture 3 - Process Models/Process Models.md",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 19.50.17.png",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.08.33.png",
+    "Lecture 3 - Process Models/Artifact.md",
+    "Lecture 3 - Process Models/Explicit Requirements Engineering.md",
+    "Untitled.canvas",
+    "Lecture 3 - Process Models/A Note on Artifacts.md",
+    "Lecture 4 - Stakeholder Elicitation Techniques",
+    "Lecture 3 - Process Models/Problem Space and Solutions Space.md",
+    "Lecture 3 - Process Models/Essential aspects in explicit RE.md",
+    "Lecture 3 - Process Models/Engineering Model.md",
+    "Lecture 1 - Terms, Activities and Contexts/Requirements Engineering.md",
+    "Lecture 1 - Terms, Activities and Contexts/Process Models.md",
+    "Lecture 1 - Terms, Activities and Contexts/NFRs and ethics.md",
+    "Lecture 3 - Process Models/Artifact Model.md",
+    "Lecture 3 - Process Models/Process Model.md",
+    "Lecture 3 - Process Models/Artifact-oriented approach.md",
+    "Lecture 3 - Process Models/AMDiRE artifact model.md",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.53.45.png",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.53.29.png",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.52.43.png",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.47.59.png",
+    "Lecture 3 - Process Models/Use of artifact models.md",
+    "Lecture 3 - Process Models/Empirical studies.md",
+    "2024-06-23.md",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.39.05.png",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.38.46.png",
+    "Lecture 3 - Process Models/Agility and RE.md",
+    "Untitled 1.canvas",
+    "Lecture 3 - Process Models/Activity-oriented approach.md",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.02.43.png",
+    "Screenshot.md",
+    "Lecture 3 - Process Models/Role Model.md",
+    "Lecture 1 - Terms, Activities and Contexts/Requirement Terms.md",
+    "Lecture 2 - Quality Model/Quality Assurance in RE.md",
+    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 19.52.42.png",
+    "Lecture 3 - Process Models",
+    "Lecture 2 - Quality Model/Linguistics in RE.md",
+    "Lecture 2 - Quality Model",
+    "Lecture 1 - Terms, Activities and Contexts",
+    "Untitled 2.canvas"
+  ]
+}

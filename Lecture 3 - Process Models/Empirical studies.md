@@ -1,0 +1,4 @@
+
+| Advantages                                                                                                              | Disadvantages                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Artifact]]s increase syntactic and semantic quality of requirements<br><br>![[Screenshot 2024-06-23 at 20.38.46.png]] | Critical points about artifact-orientation<br>1. Requires learning curve<br>2. Productivity?<br>3. Choice of notions/concepts essential<br><br>![[Screenshot 2024-06-23 at 20.39.05.png]] |
