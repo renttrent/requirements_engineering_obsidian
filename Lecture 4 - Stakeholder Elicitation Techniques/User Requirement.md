@@ -1,0 +1,3 @@
+- [[Need]]
+- What someone thinks is a need - potential users themselves or requirements engineers
+- A write-up of what someone thinks is a need

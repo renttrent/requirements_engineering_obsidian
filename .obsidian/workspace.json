@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9cd872a08404a5a",
+        "id": "da4f6fb100b1f949",
         "type": "tabs",
         "children": [
           {
-            "id": "b8773bb7fe5a984e",
+            "id": "17c8ad1c404425cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Function Hierarchy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "f4429f64da85762c",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 3 - Process Models/Engineering Model.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 3 - Process Models/Engineering Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lecture 3 - Process Models/Engineering Model.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,47 +140,53 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5a119a65b6e26b92",
+  "active": "17c8ad1c404425cc",
   "lastOpenFiles": [
-    "Lecture 3 - Process Models/Explicit Requirements Industry Standards.md",
-    "Lecture 3 - Process Models/Process Models.md",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 19.50.17.png",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.08.33.png",
-    "Lecture 3 - Process Models/Artifact.md",
-    "Lecture 3 - Process Models/Explicit Requirements Engineering.md",
-    "Untitled.canvas",
-    "Lecture 3 - Process Models/A Note on Artifacts.md",
-    "Lecture 4 - Stakeholder Elicitation Techniques",
-    "Lecture 3 - Process Models/Problem Space and Solutions Space.md",
-    "Lecture 3 - Process Models/Essential aspects in explicit RE.md",
-    "Lecture 3 - Process Models/Engineering Model.md",
+    "Lecture 7 - Functional Requirements/Usage Models.md",
+    "Lecture 7 - Functional Requirements/Scenario.md",
+    "Lecture 7 - Functional Requirements/From Business Process Instances to Business Processes.md",
+    "Lecture 7 - Functional Requirements/From Scenarios to Functions.md",
+    "Lecture 7 - Functional Requirements/Use Case.md",
+    "Lecture 7 - Functional Requirements/Specification of Use Cases.md",
+    "Lecture 7 - Functional Requirements/Use Case Template of Cockburn.md",
+    "Lecture 7 - Functional Requirements/Business Process.md",
+    "Lecture 7 - Functional Requirements/Levels and Concepts of Behavioural Modelling.md",
+    "Lecture 7 - Functional Requirements/Usage Model.md",
+    "Lecture 7 - Functional Requirements/Function Hierarchies.md",
+    "Lecture 7 - Functional Requirements/Function Hierarchy.md",
+    "Lecture 7 - Functional Requirements/Importance of Function Hierarchies.md",
+    "Lecture 7 - Functional Requirements/User Story.md",
+    "Lecture 7 - Functional Requirements/Writing good User Stories.md",
+    "Lecture 7 - Functional Requirements/General Problems with Behavioural Modelling.md",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 21.01.43.png",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.57.25.png",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.56.55.png",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.47.45.png",
+    "Lecture 7 - Functional Requirements/From Business Process to Functions.md",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.41.26.png",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.37.43.png",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.36.52.png",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 19.43.55.png",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.31.00.png",
+    "Lecture 7 - Functional Requirements/Use Case vs Scenario.md",
+    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.20.02.png",
+    "Lecture 1 - Terms, Activities and Contexts/Functional Requirements.md",
+    "Use Cases.md",
+    "Lecture 7 - Functional Requirements/Intro.md",
+    "Lecture 7 - Functional Requirements",
+    "Lecture 6 - Extra-Functional Requirements/Extra Functional Requirements.md",
     "Lecture 1 - Terms, Activities and Contexts/Requirements Engineering.md",
-    "Lecture 1 - Terms, Activities and Contexts/Process Models.md",
-    "Lecture 1 - Terms, Activities and Contexts/NFRs and ethics.md",
-    "Lecture 3 - Process Models/Artifact Model.md",
-    "Lecture 3 - Process Models/Process Model.md",
-    "Lecture 3 - Process Models/Artifact-oriented approach.md",
-    "Lecture 3 - Process Models/AMDiRE artifact model.md",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.53.45.png",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.53.29.png",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.52.43.png",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.47.59.png",
-    "Lecture 3 - Process Models/Use of artifact models.md",
-    "Lecture 3 - Process Models/Empirical studies.md",
-    "2024-06-23.md",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.39.05.png",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.38.46.png",
-    "Lecture 3 - Process Models/Agility and RE.md",
+    "Lecture 6 - Extra-Functional Requirements/Functional vs Non Functional.md",
+    "Lecture 6 - Extra-Functional Requirements/NFRs.md",
+    "Lecture 6 - Extra-Functional Requirements/Measuring NFRs.md",
+    "Lecture 6 - Extra-Functional Requirements",
+    "Lecture 5 - Goal-Oriented RE",
+    "IDEO Method Cards",
+    "Lecture 2 - Quality Model/Recording 20240626004612.webm",
+    "Untitled.canvas",
+    "Lecture 4 - Stakeholder Elicitation Techniques",
     "Untitled 1.canvas",
-    "Lecture 3 - Process Models/Activity-oriented approach.md",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 20.02.43.png",
-    "Screenshot.md",
-    "Lecture 3 - Process Models/Role Model.md",
-    "Lecture 1 - Terms, Activities and Contexts/Requirement Terms.md",
-    "Lecture 2 - Quality Model/Quality Assurance in RE.md",
-    "Lecture 3 - Process Models/Screenshot 2024-06-23 at 19.52.42.png",
     "Lecture 3 - Process Models",
-    "Lecture 2 - Quality Model/Linguistics in RE.md",
     "Lecture 2 - Quality Model",
     "Lecture 1 - Terms, Activities and Contexts",
     "Untitled 2.canvas"

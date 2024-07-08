@@ -1,0 +1,1 @@
+A translation of [[User Requirement]]s into necessary system capabilities

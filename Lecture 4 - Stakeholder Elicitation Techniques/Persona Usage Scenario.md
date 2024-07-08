@@ -1,0 +1,4 @@
+The scenario is a **detailed** narrative how the persona would use the system. Being as concrete as possible often opens new viewpoints.
+
+**Example for Rent-a-Scooter:**
+Peter knows about Rent-a-Scooter from *advertisements broadcasted on the radio*. The next day, he has a meeting with a business partner that takes place 15 minutes from his office. He decides to try Rent-a-Scooter and opens the *website*. […] He *enters his office address* and available scooters are visualized as pins on a map. Using a *filter*, he chooses to display only scooters he can reach within a 3 minute walk. Moving the mouse above one of them, he *checks if the battery* is sufficient for his trip. Then [...] using his business *credit card*. […] *confirmation email* and *receipt* that he forwards to his secretary. […] After the trip, Peter receives an email with a *10% off code* for his next trip.
