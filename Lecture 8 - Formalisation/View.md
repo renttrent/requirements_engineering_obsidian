@@ -1,0 +1,1 @@
+Views show a system from a *certain perspective* (**viewpoint**). They offer suitable modelling concepts for these perspectives and thus enable a precise *observation and analysis of these perspectives*. A view is an instance of a viewpoint.

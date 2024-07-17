@@ -5,6 +5,6 @@ Req Engineering is an iterative, systematic approach, designed for efficiency an
 - Analyse, negotiate, consolidate requirements (**Analysis**)
 - Structure, model, documents requirements (**Specification**)
 - Check requirements for quality and validity (**Validation & Verification**)
-
+	
 ![[Screenshot 2024-06-23 at 15.29.13.png]]
 

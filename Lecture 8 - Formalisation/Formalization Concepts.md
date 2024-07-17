@@ -1,0 +1,11 @@
+
+- Data modelling
+	- Ontologies
+	- Taxonomies
+- **Logic**
+	- Predicate Logic
+	- Temporal Logic
+- **State Machines**
+- Interfaces
+- Architectures
+- Metrics

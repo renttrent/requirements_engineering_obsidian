@@ -12,7 +12,6 @@
 | Good adaptability                                                         |                                                                  |
 Why artifact orientation in RE?
 
-
 | Common problems in practice                                                            | Characteristics of artifact orientation                                                                                                                                                          |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Maintenance hard w/o solid requirements documentation (but also: write-only-documents) | Documentation                                                                                                                                                                                    |

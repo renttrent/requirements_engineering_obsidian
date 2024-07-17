@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "da4f6fb100b1f949",
+        "id": "4c9af8ec1e0efb69",
         "type": "tabs",
         "children": [
           {
-            "id": "17c8ad1c404425cc",
+            "id": "95a069a54e526fb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 1 - Terms, Activities and Contexts/Form and Content.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Function Hierarchy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture 1 - Terms, Activities and Contexts/Form and Content.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture 1 - Terms, Activities and Contexts/Form and Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lecture 1 - Terms, Activities and Contexts/Form and Content.md"
+              }
             }
           }
         ]
@@ -140,45 +149,48 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "17c8ad1c404425cc",
+  "active": "95a069a54e526fb8",
   "lastOpenFiles": [
-    "Lecture 7 - Functional Requirements/Usage Models.md",
-    "Lecture 7 - Functional Requirements/Scenario.md",
-    "Lecture 7 - Functional Requirements/From Business Process Instances to Business Processes.md",
-    "Lecture 7 - Functional Requirements/From Scenarios to Functions.md",
-    "Lecture 7 - Functional Requirements/Use Case.md",
-    "Lecture 7 - Functional Requirements/Specification of Use Cases.md",
-    "Lecture 7 - Functional Requirements/Use Case Template of Cockburn.md",
-    "Lecture 7 - Functional Requirements/Business Process.md",
-    "Lecture 7 - Functional Requirements/Levels and Concepts of Behavioural Modelling.md",
-    "Lecture 7 - Functional Requirements/Usage Model.md",
-    "Lecture 7 - Functional Requirements/Function Hierarchies.md",
-    "Lecture 7 - Functional Requirements/Function Hierarchy.md",
-    "Lecture 7 - Functional Requirements/Importance of Function Hierarchies.md",
-    "Lecture 7 - Functional Requirements/User Story.md",
-    "Lecture 7 - Functional Requirements/Writing good User Stories.md",
-    "Lecture 7 - Functional Requirements/General Problems with Behavioural Modelling.md",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 21.01.43.png",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.57.25.png",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.56.55.png",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.47.45.png",
-    "Lecture 7 - Functional Requirements/From Business Process to Functions.md",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.41.26.png",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.37.43.png",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.36.52.png",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 19.43.55.png",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.31.00.png",
-    "Lecture 7 - Functional Requirements/Use Case vs Scenario.md",
-    "Lecture 7 - Functional Requirements/Screenshot 2024-07-08 at 20.20.02.png",
-    "Lecture 1 - Terms, Activities and Contexts/Functional Requirements.md",
-    "Use Cases.md",
-    "Lecture 7 - Functional Requirements/Intro.md",
+    "Lecture 1 - Terms, Activities and Contexts/Error and Correction Costs.md",
+    "Lecture 1 - Terms, Activities and Contexts/Classifications of Requirements.md",
+    "Lecture 2 - Quality Model/Quality Criteria Industry Standards.md",
+    "Lecture 8 - Formalisation/Exemplary Statements on Requirements.md",
+    "Lecture 8 - Formalisation/Note on Ambiguity.md",
+    "Lecture 1 - Terms, Activities and Contexts/Formalization.md",
+    "Lecture 8 - Formalisation/Advantages and Disadvantages of Formalization.md",
+    "Lecture 8 - Formalisation/Precision vs Comprehensibility.md",
+    "Lecture 8 - Formalisation/Empirically Formulated Statements on Properties.md",
+    "Lecture 8 - Formalisation/Formulation.md",
+    "Lecture 3 - Process Models/Empirical studies.md",
+    "Lecture 10 - Requirements Management/Change Management.md",
+    "Lecture 10 - Requirements Management/Screenshot 2024-07-17 at 16.37.38.png",
+    "Lecture 10 - Requirements Management/Change of Requirements.md",
+    "Lecture 10 - Requirements Management/Screenshot 2024-07-17 at 16.32.13.png",
+    "Lecture 10 - Requirements Management/Structuring and Attributing Requirements.md",
+    "Lecture 10 - Requirements Management/Screenshot 2024-07-17 at 16.30.00.png",
+    "Lecture 10 - Requirements Management/Tools in Agile Software Development.md",
+    "Lecture 10 - Requirements Management/Manage Requirements.md",
+    "Lecture 10 - Requirements Management/Core Tasks.md",
+    "Lecture 10 - Requirements Management/Requirements Management.md",
+    "Lecture 9 - Agility/Change.md",
+    "Lecture 9 - Agility/Scope of a user story.md",
+    "Lecture 10 - Requirements Management",
+    "Lecture 9 - Agility/Screenshot 2024-07-15 at 19.00.06.png",
+    "Lecture 9 - Agility/Refinement of User Stories.md",
+    "Lecture 9 - Agility/Identify Bad User Stories.md",
+    "Lecture 9 - Agility/How to get User Stories.md",
+    "Lecture 9 - Agility/Developers take Responsibility.md",
+    "Lecture 9 - Agility/Scrum.md",
+    "Lecture 9 - Agility/User Stories.md",
+    "Lecture 9 - Agility/Screenshot 2024-07-15 at 19.10.25.png",
+    "Lecture 9 - Agility/Screenshot 2024-07-15 at 19.10.07.png",
+    "Lecture 9 - Agility/Screenshot 2024-07-15 at 19.01.53.png",
+    "Pasted image 20240715190141.png",
+    "Lecture 9 - Agility/Screenshot 2024-07-15 at 19.05.03.png",
+    "Lecture 9 - Agility/Screenshot 2024-07-15 at 19.05.19.png",
+    "Lecture 9 - Agility",
+    "Lecture 8 - Formalisation",
     "Lecture 7 - Functional Requirements",
-    "Lecture 6 - Extra-Functional Requirements/Extra Functional Requirements.md",
-    "Lecture 1 - Terms, Activities and Contexts/Requirements Engineering.md",
-    "Lecture 6 - Extra-Functional Requirements/Functional vs Non Functional.md",
-    "Lecture 6 - Extra-Functional Requirements/NFRs.md",
-    "Lecture 6 - Extra-Functional Requirements/Measuring NFRs.md",
     "Lecture 6 - Extra-Functional Requirements",
     "Lecture 5 - Goal-Oriented RE",
     "IDEO Method Cards",
@@ -187,8 +199,6 @@
     "Lecture 4 - Stakeholder Elicitation Techniques",
     "Untitled 1.canvas",
     "Lecture 3 - Process Models",
-    "Lecture 2 - Quality Model",
-    "Lecture 1 - Terms, Activities and Contexts",
     "Untitled 2.canvas"
   ]
 }

@@ -1,13 +1,12 @@
 #### Functional requirements
-- Requirements that describe the **behaviour**  of the system, especially with regard to its use (including time behaviour when relevant for functionality)
-
+- Requirements that describe the **behaviour** of the system, especially with regard to its use (including time behaviour when relevant for functionality)
 #### Quality requirements
 - Requirements on quality **properties** of the system (characteristic/quantitative properties with regard to behaviour) general conditions
 #### Process requirements (project-specific)
 - Development process requirements (project plan, milestones, budget, deadlines, QA etc.)
 - Implementation specifications (boundary conditions, constraints) Components or technologies to be used
 
-> Quality and process requirements are often called [[non-functional requirements]]
+> Quality and process requirements are often called [[Non-functional Requirements]]
 
 ---
 #### Business requirements

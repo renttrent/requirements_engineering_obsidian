@@ -1,8 +1,8 @@
 #### A good User Story is:
 - **Independent**: No dependencies between stories as they lead to planning problems 
-- **Negotiable**: User Stories are no requirements, but description of functionality to be negotiated
+- **Negotiable**: User Stories are not requirements, but description of functionality to be negotiated
 - **Valuable**: User Stories should be valuable to users or customers
-- **Estimable**: Developers should be able to estimate the size of a story
+- **Estimetable**: Developers should be able to estimate the size of a story
 - **Small**: Long stories are difficult to understand and should be split up in a series of smaller stories
 - **Testable**: Stories must be written so as to be testable. Passing all tests proves deployment
 
